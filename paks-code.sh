@@ -1,2 +1,2 @@
 #!/bin/bash 
-server=off
+server=on
